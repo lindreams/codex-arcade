@@ -31,7 +31,7 @@ So I made this:
 Requires **Windows**, **Python 3.10+ with tkinter**, and **Codex Desktop**.
 
 ```bat
-git clone https://github.com/lingmeng-658/codex-arcade.git
+git clone https://github.com/lindreams/codex-arcade.git
 cd codex-arcade
 python install.py
 ```
